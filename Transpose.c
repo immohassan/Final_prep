@@ -98,6 +98,8 @@ int main(){
     scanf("%d",&size);
     int arr[size][size];
     array_input(size,arr);
+    transpose2(size,arr);
+    transpose3(size,arr);
     transpose4(size,arr);
     return 0;
 }
