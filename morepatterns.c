@@ -109,7 +109,6 @@ int main()
     hollowpyramid(size);
     hollowreversepyramid(size);
     hollowdiamond(size);
-    // blah(size);
     // display(size);
     return 0;
 }
